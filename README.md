@@ -52,7 +52,7 @@ Steps to Run
 1. Clone the repository:
    
    ```
-      git clone https://github.com/your-username/ai-customer-support-assistant.git
+      git clone https://github.com/DaveSimoes/React-AI-Support.git
     ```
 
 2. Navigate to the server directory and install dependencies:
