@@ -11,7 +11,7 @@ This assistant can easily be integrated into e-commerce platforms, SaaS applicat
 - User-Friendly Interface: Modern frontend built with React, featuring well-styled components for a clean and intuitive user experience.
 - Simple Setup: Just add your OpenAI API key in the .env file, and you're ready to go!
 
-📂 Folder Structure
+## 📂  Folder Structure
 
 ```
 /client          # React frontend directory
@@ -30,7 +30,7 @@ This assistant can easily be integrated into e-commerce platforms, SaaS applicat
 .env             # Environment variables file
 ```
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Frontend:
 - React - JavaScript library for building user interfaces.
@@ -41,7 +41,7 @@ Backend:
 - Express.js - Minimalist web framework for Node.js.
 - OpenAI API - AI API for natural language processing.
   
-🔧 Installation and Setup
+## 🔧 Installation and Setup
 Requirements
 - Node.js (version 14 or higher)
 - NPM or Yarn
@@ -89,13 +89,13 @@ Steps to Run
 ```
 7. The app will be available at http://localhost:3000.
 
-⚙️ Future Features
+## ⚙️ Future Features
 - User authentication system integration.
 - Multi-language support to expand user reach.
 - Optimized natural language processing with custom models.
 - Add logging and dashboards to monitor interactions.
 
-🤝 Contributions:
+## 🤝 Contributions:
 - Contributions are always welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 📝 License
