@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.input-container {
+  margin-top: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 10px;
+}
+
+.chat-box {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #f1f1f1;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.message {
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.message.user {
+  background-color: #d1e7ff;
+  text-align: right;
+}
+
+.message.ai {
+  background-color: #f0f0f0;
+}
