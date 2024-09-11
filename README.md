@@ -58,35 +58,34 @@ Steps to Run
 2. Navigate to the server directory and install dependencies:
 
 ```
-cd server
-npm install
-
+       cd server
+       npm install
 ```
 
 3. Create a .env file in the server directory and add your OpenAI API key:
 
 ```
-   OPENAI_API_KEY=your_openai_api_key_here
+      OPENAI_API_KEY=your_openai_api_key_here
 ```
 
 4. Start the backend server:
 
    ```
-   npm start
+     npm start
 
    ```
 
 5. Navigate to the client directory (frontend) and install dependencies:
 
 ```
-   cd ../client
-   npm install 
+     cd ../client
+     npm install 
 ```
 
 6. Start the frontend server:
    
 ```
-npm start
+      npm start
 ```
 7. The app will be available at http://localhost:3000.
 
