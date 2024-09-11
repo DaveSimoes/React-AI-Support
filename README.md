@@ -4,7 +4,7 @@ This is an AI-powered real-time customer support assistant, built with React on 
 
 This assistant can easily be integrated into e-commerce platforms, SaaS applications, or any system that requires automated customer support.
 
-🚀 Main Features
+## 🚀 Main Features
 - Real-Time Chat: Enables smooth interaction between the user and AI with real-time updates.
 - Smart Responses with OpenAI: Uses OpenAI’s text-davinci-003 model to process user queries and deliver detailed, personalized responses.
 - Backend Integration (Node.js/Express): The backend handles API requests to OpenAI and communicates with the frontend.
